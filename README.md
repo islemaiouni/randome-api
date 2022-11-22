@@ -1,6 +1,5 @@
 # Meme API
 
-Inspired from [Random Memer](https://github.com/techytushar/random-memer)
 
 Node API to return random programming meme images scrapped from [Memedroid](https://www.memedroid.com/memes/tag/programming).
 
@@ -8,9 +7,10 @@ Node API to return random programming meme images scrapped from [Memedroid](http
 
 Install the dependencies
 
-```bash
-yarn
+
+yarn i 
 # or npm i
+npm start 
 yarn start
 ```
 
