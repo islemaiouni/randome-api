@@ -9,8 +9,11 @@ Install the dependencies
 
 
 yarn i 
-# or npm i
+
+or npm i
+
 npm start 
+
 yarn start
 ```
 
