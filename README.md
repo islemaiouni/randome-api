@@ -17,17 +17,12 @@ npm start
 yarn start
 ```
 
-## Tech Stack
-
-Node, Puppeteer, Fastify
 
 ## API Reference
 
 #### Get a random meme
 
-```http
-GET /
-```
+
 
 ## Feedback
 
